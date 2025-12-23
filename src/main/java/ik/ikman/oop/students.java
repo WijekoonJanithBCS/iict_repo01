@@ -4,7 +4,7 @@ import java.sql.SQLOutput;
 
 public class students {
     public static void main(String[] args) {
-        System.out.print("hello janith saranga wijekoon.....");
+        System.out.print("hello janith saranga wijekoon kandy.....");
     }
 
 
