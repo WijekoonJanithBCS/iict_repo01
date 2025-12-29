@@ -1,5 +1,4 @@
 package ik.ikman.oop;
 
-public class Abcd {
-
+public class BankAcc {
 }
