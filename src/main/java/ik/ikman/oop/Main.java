@@ -81,7 +81,7 @@ public class Main {
         for(BankAcc acc : accDB) {
             if(acc.accNo== accNum) {
                 System.out.println("account number is = "+acc.accNo);
-                System.out.println("account amount is = "+acc.amount);
+                System.out.println("account amount (money) is = "+acc.amount);
                 System.out.println("account type is = "+acc.type);
 
             }
