@@ -80,9 +80,9 @@ public class Main {
     private static void toDisplay(int accNum) {
         for(BankAcc acc : accDB) {
             if(acc.accNo== accNum) {
-                System.out.println("account number is = "+acc.accNo);
-                System.out.println("account amount (money) is = "+acc.amount);
-                System.out.println("account type is = "+acc.type);
+                System.out.println("your account number is = "+acc.accNo);
+                System.out.println("your account amount (money) is = "+acc.amount);
+                System.out.println("your account type is = "+acc.type);
 
             }
             else{
